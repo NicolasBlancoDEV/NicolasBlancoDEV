@@ -1,6 +1,6 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi <𝚍𝚎𝚟𝚜/>, Hola soy, Nicolás! </h1>
-<h3 align="center">Soy un apasionado de Java 🧡 y soy de Argentina </h3>
+<h3 align="center">Soy un apasionado de Java <a href="https://laravel.com" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="45" height="45"/> </a> </h3>
 
 <div align="center">
 Finalmente has descubierto mi perfil de Github, ¡te estaba esperando!
